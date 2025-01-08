@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Medical Dictionary</string>
+    <string name="action_go">Ara</string>
+    <string name="baking_title">Medical Dictionary</string>
+    <string name="label_prompt">Term</string>
+    <string name="prompt_placeholder">What is the medical meaning of cardiology? </string>
+    <string name="image1_description">Cupcake</string>
+    <string name="image2_description">Cookies</string>
+    <string name="image3_description">Cake</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+</resources>
